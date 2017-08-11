@@ -1,10 +1,6 @@
 
 import tkinter
-from tkinter import Canvas, Label, Tk, StringVar, messagebox, Button, TOP
-
-from random import choice
-from collections import Counter
-
+from tkinter import Canvas, Tk
 
 class Game():
   WIDTH = 300
